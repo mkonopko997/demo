@@ -8,7 +8,36 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "contacts": [
+        "mail@daftcode.pl",
+        "+48 123-456-789",
+        "daftcode.pl"  
+      ],
+      "description" : "Fraud Prevention Multi-layered client-server neutral-net"
+    },
+    {
+      "id": 2,
+      "name": "Leanne Graham2",
+      "contacts": [
+        "mail@daftcode.pl",
+        "+48 123-456-789",
+        "daftcode.pl"  
+      ],
+      "description" : "Fraud Prevention Multi-layered client-server neutral-net"
+    },
+    {
+      "id": 3,
+      "name": "Leanne Graham3",
+      "contacts": [
+        "mail@daftcode.pl",
+        "+48 123-456-789",
+        "daftcode.pl"  
+      ],
+      "description" : "Fraud Prevention Multi-layered client-server neutral-net"
+    }
+  ]
 }
